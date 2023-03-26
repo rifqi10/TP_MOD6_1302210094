@@ -1,0 +1,15 @@
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.csproj.AssemblyReference.cache
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.AssemblyInfoInputs.cache
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.AssemblyInfo.cs
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.csproj.CoreCompileInputs.cache
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\bin\Debug\net6.0\tpmodul6_1302210094.exe
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\bin\Debug\net6.0\tpmodul6_1302210094.deps.json
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\bin\Debug\net6.0\tpmodul6_1302210094.runtimeconfig.json
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\bin\Debug\net6.0\tpmodul6_1302210094.dll
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\bin\Debug\net6.0\tpmodul6_1302210094.pdb
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.dll
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\refint\tpmodul6_1302210094.dll
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.pdb
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\tpmodul6_1302210094.genruntimeconfig.cache
+F:\Kuliah Rifqi\Semester 4\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\tpmodul6_1302210094\tpmodul6_1302210094\obj\Debug\net6.0\ref\tpmodul6_1302210094.dll
